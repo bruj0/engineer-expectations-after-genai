@@ -1,0 +1,8 @@
+.md-typeset img.essay-cover {
+  display: block;
+  width: 100%;
+  max-width: 32rem;
+  height: auto;
+  margin: 2rem auto;
+  border-radius: 0.5rem;
+}
